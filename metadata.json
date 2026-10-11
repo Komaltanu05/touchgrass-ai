@@ -1,0 +1,6 @@
+{
+  "name": "TouchGrass AI",
+  "description": "Less scrolling. More living. Personalized outdoor missions powered by Gemma 4 to help you step away from screens and reconnect with nature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
